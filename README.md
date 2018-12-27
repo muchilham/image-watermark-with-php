@@ -1,1 +1,1 @@
-Create Watermark with PHP
+Create Watermark Image with PHP
